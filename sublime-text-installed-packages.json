@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"debug": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"Babel",
+		"Babel Snippets",
+		"Diffy",
+		"Dockerfile Syntax Highlighting",
+		"Duplicate Lines",
+		"HexViewer",
+		"JSON Reindent",
+		"Kotlin",
+		"Package Control",
+		"RemoveDuplicateLines",
+		"TerminalView",
+		"Theme - Spacegray",
+		"Trimmer"
+	]
+}
